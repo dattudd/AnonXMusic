@@ -14,7 +14,7 @@ py-tgcalls==0.9.7
 pykeyboard
 pyrofork
 python-dotenv
-pyyaml
+yaml
 requests
 speedtest-cli
 spotipy
